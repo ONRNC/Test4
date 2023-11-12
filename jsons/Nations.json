@@ -1,8 +1,8 @@
 [
   {
 		"name": "Fontaine",
-		"leaderName": "Nap",
-		"adjective": ["French"],
+		"leaderName": "Focalors",
+		"adjective": ["Fontanian"],
 		"preferredVictoryType": "Cultural",
 
         "startIntroPart1": "",
@@ -21,7 +21,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "God of Justice",
-		"uniques": ["May buy [Military] units with [Culture] for [1] times their normal Production cost"],
+		"uniques": ["May buy [Military] units with [Culture] for [1] times their normal Production cost","May buy [building] buildings with [Culture] for [1] times their normal Production cost"],
 		"cities": ["Fontaine","Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
