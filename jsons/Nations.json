@@ -1,8 +1,8 @@
 [
   {
-		"name": "Fontaine",
-		"leaderName": "Focalors",
-		"adjective": ["Fontanian"],
+		"name": "Doomed",
+		"leaderName": "Dommy",
+		"adjective": ["Doomedy"],
 		"preferredVictoryType": "Cultural",
 
         "startIntroPart1": "",
@@ -20,9 +20,9 @@
         "innerColor": [239,236,148],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "God of Justice",
-		"uniques": ["May buy [Military] units with [Culture] for [1] times their normal Production cost","May buy [Culture] buildings with [Culture] for [1] times their normal Production cost"],
-		"cities": ["Fontaine","Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+		"uniqueName": "Alone",
+		"uniques": ["[-99 Food][in all cities]"],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
