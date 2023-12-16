@@ -21,7 +21,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Alone",
-		"uniques": ["[-99 Food] [in all cities]"],
+		"uniques": ["[-99 Food] [in all cities]","[-99 Production] [in all cities]","[-99 Gold] [in all cities]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
